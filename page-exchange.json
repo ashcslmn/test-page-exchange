@@ -1,0 +1,21 @@
+{
+    "publisher": "PagePort",
+    "author": "PagePort",
+    "language": "en",
+    "url": "https:\/\/github.com\/ashcslmn\/test-page-exchange",
+    "packages": {
+        "1710941116": {
+            "globalID": "1710941116",
+            "description": "",
+            "version": "0.1",
+            "pages": [
+                {
+                    "name": "Foo",
+                    "namespace": "NS_MAIN",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/test-page-exchange\/master\/Main%2FFoo.mediawiki"
+                }
+            ],
+            "requiredExtensions": []
+        }
+    }
+}
