@@ -4,8 +4,8 @@
     "language": "en",
     "url": "https:\/\/github.com\/ashcslmn\/test-exchange-page",
     "packages": {
-        "1711025943": {
-            "globalID": "1711025943",
+        "1711026437": {
+            "globalID": "1711026437",
             "description": "",
             "version": "0.1",
             "requiredExtensions": [],
@@ -13,25 +13,30 @@
                 "service": "GitHub",
                 "accountName": "ashcslmn",
                 "repositoryName": "test-exchange-page",
-                "namespaceSettings": {
-                    "0": {
+                "namespaceSettings": [
+                    {
                         "namespace": "NS_MAIN",
                         "fileNamePrefix": "MAIN\/",
                         "fileNameSuffix": ".mediawiki"
                     },
-                    "1": {
+                    {
                         "namespace": "NS_FILE",
                         "fileNamePrefix": "FILE\/",
                         "fileNameSuffix": ".mediawiki",
                         "actualFileNamePrefix": "File\/",
                         "actualFileNameSuffix": ""
                     },
-                    "3": {
+                    {
+                        "namespace": "NS_MAIN",
+                        "fileNamePrefix": "MAIN\/",
+                        "fileNameSuffix": ".mediawiki"
+                    },
+                    {
                         "namespace": "NS_TEMPLATE",
                         "fileNamePrefix": "TEMPLATE\/",
                         "fileNameSuffix": ".mediawiki"
                     }
-                }
+                ]
             }
         }
     }
