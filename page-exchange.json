@@ -2,10 +2,10 @@
     "publisher": "PagePort",
     "author": "PagePort",
     "language": "en",
-    "url": "https:\/\/github.com\/ashcslmn\/test-page-exchange",
+    "url": "https://github.com/ashcslmn/test-page-exchange",
     "packages": {
-        "1711026509": {
-            "globalID": "1711026509",
+        "1711027386": {
+            "globalID": "1711027386",
             "description": "",
             "version": "0.1",
             "requiredExtensions": [],
@@ -16,24 +16,24 @@
                 "namespaceSettings": [
                     {
                         "namespace": "NS_MAIN",
-                        "fileNamePrefix": "MAIN\/",
+                        "fileNamePrefix": "MAIN/",
                         "fileNameSuffix": ".mediawiki"
                     },
                     {
                         "namespace": "NS_FILE",
-                        "fileNamePrefix": "FILE\/",
+                        "fileNamePrefix": "FILE/",
                         "fileNameSuffix": ".mediawiki",
-                        "actualFileNamePrefix": "File\/",
+                        "actualFileNamePrefix": "File/",
                         "actualFileNameSuffix": ""
                     },
                     {
                         "namespace": "NS_MAIN",
-                        "fileNamePrefix": "MAIN\/",
+                        "fileNamePrefix": "MAIN/",
                         "fileNameSuffix": ".mediawiki"
                     },
                     {
                         "namespace": "NS_TEMPLATE",
-                        "fileNamePrefix": "TEMPLATE\/",
+                        "fileNamePrefix": "TEMPLATE/",
                         "fileNameSuffix": ".mediawiki"
                     }
                 ]
