@@ -2,17 +2,17 @@
     "publisher": "PagePort",
     "author": "PagePort",
     "language": "en",
-    "url": "https:\/\/github.com\/ashcslmn\/test-exchange-page",
+    "url": "https:\/\/github.com\/ashcslmn\/test-page-exchange",
     "packages": {
-        "1711026437": {
-            "globalID": "1711026437",
+        "1711026509": {
+            "globalID": "1711026509",
             "description": "",
             "version": "0.1",
             "requiredExtensions": [],
             "directoryStructure": {
                 "service": "GitHub",
                 "accountName": "ashcslmn",
-                "repositoryName": "test-exchange-page",
+                "repositoryName": "test-page-exchange",
                 "namespaceSettings": [
                     {
                         "namespace": "NS_MAIN",
