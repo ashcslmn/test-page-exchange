@@ -15,25 +15,20 @@
                 "repositoryName": "test-page-exchange",
                 "namespaceSettings": [
                     {
-                        "namespace": "NS_MAIN",
-                        "fileNamePrefix": "MAIN/",
-                        "fileNameSuffix": ".mediawiki"
-                    },
-                    {
                         "namespace": "NS_FILE",
-                        "fileNamePrefix": "FILE/",
+                        "fileNamePrefix": "File/",
                         "fileNameSuffix": ".mediawiki",
                         "actualFileNamePrefix": "File/",
                         "actualFileNameSuffix": ""
                     },
                     {
-                        "namespace": "NS_MAIN",
-                        "fileNamePrefix": "MAIN/",
+                        "namespace": "NS_TEMPLATE",
+                        "fileNamePrefix": "Template/",
                         "fileNameSuffix": ".mediawiki"
                     },
                     {
-                        "namespace": "NS_TEMPLATE",
-                        "fileNamePrefix": "TEMPLATE/",
+                        "namespace": "PF_NS_FORM",
+                        "fileNamePrefix": "Form/",
                         "fileNameSuffix": ".mediawiki"
                     }
                 ]
