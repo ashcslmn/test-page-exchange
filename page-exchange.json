@@ -3,12 +3,17 @@
     "author": "PagePort",
     "language": "en",
     "url": "https:\/\/github.com\/",
-    "diretoryStructure": "_test",
+    "diretoryStructure": {},
     "packages": {
         "1710989194": {
             "globalID": "1710989194",
             "description": "",
             "version": "0.1",
+            "directoryStructure": {
+                "service": "GitHub",
+                "accountName": "ashcslmn",
+                "repositoryName": "test-page-exchange",
+            },
             "pages": [
                 {
                     "name": "Foo",
