@@ -10,7 +10,7 @@
             "version": "0.1",
             "requiredExtensions": [],
             "directoryStructure": {
-                "service": "Github",
+                "service": "GitHub",
                 "accountName": "ashcslmn",
                 "repositoryName": "test-exchange-page",
                 "namespaceSettings": {
