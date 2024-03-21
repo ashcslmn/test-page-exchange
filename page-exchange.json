@@ -2,24 +2,36 @@
     "publisher": "PagePort",
     "author": "PagePort",
     "language": "en",
-    "url": "https:\/\/github.com\/",
+    "url": "https:\/\/github.com\/ashcslmn\/test-exchange-page",
     "packages": {
-        "1711024547": {
-            "globalID": "1711024547",
+        "1711025943": {
+            "globalID": "1711025943",
             "description": "",
             "version": "0.1",
             "requiredExtensions": [],
             "directoryStructure": {
                 "service": "Github",
-                "accountName": "",
-                "repositoryName": "",
-                "namespaceSettings": [
-                    {
-                        "namespace": "SMW_NS_SCHEMA",
-                        "fileNamePrefix": "SMW_SCHEMA\/",
+                "accountName": "ashcslmn",
+                "repositoryName": "test-exchange-page",
+                "namespaceSettings": {
+                    "0": {
+                        "namespace": "NS_MAIN",
+                        "fileNamePrefix": "MAIN\/",
+                        "fileNameSuffix": ".mediawiki"
+                    },
+                    "1": {
+                        "namespace": "NS_FILE",
+                        "fileNamePrefix": "FILE\/",
+                        "fileNameSuffix": ".mediawiki",
+                        "actualFileNamePrefix": "File\/",
+                        "actualFileNameSuffix": ""
+                    },
+                    "3": {
+                        "namespace": "NS_TEMPLATE",
+                        "fileNamePrefix": "TEMPLATE\/",
                         "fileNameSuffix": ".mediawiki"
                     }
-                ]
+                }
             }
         }
     }
