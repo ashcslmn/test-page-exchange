@@ -3,6 +3,11 @@
     "author": "PagePort",
     "language": "en",
     "url": "https:\/\/github.com\/ashcslmn\/test-page-exchange",
+    "directoryStucture": {
+        "Main": {
+            "Foo.mediawiki": "Foo"
+        }
+    },
     "packages": {
         "1710943072": {
             "globalID": "1710943072",
@@ -15,12 +20,12 @@
                     "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/test-page-exchange\/master\/Main%2FFoo.mediawiki"
                 }
             ],
-            "directoryStructure": {
-                "Main": {
-                    "Foo.mediawiki": "Foo"
-                }
-            },
             "requiredExtensions": []
+        },
+        "directoryStucture": {
+            "Main": {
+                "Foo.mediawiki": "Foo"
+            }
         }
     }
 }
