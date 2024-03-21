@@ -20,13 +20,6 @@
                     }
                 ]
             },
-            "pages": [
-                {
-                    "name": "Foo",
-                    "namespace": "NS_MAIN",
-                    "url": "https:\/\/goodgovernance.localhost\/index.php?title=Foo&action=raw"
-                }
-            ],
             "requiredExtensions": []
         }
     }
