@@ -2,25 +2,21 @@
     "publisher": "PagePort",
     "author": "PagePort",
     "language": "en",
-    "url": "https:\/\/github.com\/ashcslmn\/test-page-exchange",
+    "url": "https:\/\/github.com\/",
+    "diretoryStructure": "_test",
     "packages": {
-        "1710943072": {
-            "globalID": "1710943072",
+        "1710989194": {
+            "globalID": "1710989194",
             "description": "",
             "version": "0.1",
             "pages": [
                 {
                     "name": "Foo",
                     "namespace": "NS_MAIN",
-                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/test-page-exchange\/master\/Main%2FFoo.mediawiki"
+                    "url": "https:\/\/goodgovernance.localhost\/index.php?title=Foo&action=raw"
                 }
             ],
             "requiredExtensions": []
-        }
-    },
-    "directoryStucture": {
-        "Main": {
-            "Foo.mediawiki": "Foo"
         }
     }
 }
