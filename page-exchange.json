@@ -4,8 +4,8 @@
     "language": "en",
     "url": "https:\/\/github.com\/ashcslmn\/test-page-exchange",
     "packages": {
-        "1710941116": {
-            "globalID": "1710941116",
+        "1710943072": {
+            "globalID": "1710943072",
             "description": "",
             "version": "0.1",
             "pages": [
@@ -15,6 +15,11 @@
                     "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/test-page-exchange\/master\/Main%2FFoo.mediawiki"
                 }
             ],
+            "directoryStructure": {
+                "Main": {
+                    "Foo.mediawiki": "Foo"
+                }
+            },
             "requiredExtensions": []
         }
     }
