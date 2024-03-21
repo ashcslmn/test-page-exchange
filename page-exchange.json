@@ -16,9 +16,7 @@
                 "namespaceSettings": [
                     {
                         "namespace": "NS_MAIN",
-                        "namespaceName": "Main",
-                        "actualFileNamePrefix": "Main/",
-                        "actualFileNameSuffix": ""
+                        "fileNamePrefix": "Main/"
                     }
                 ]
             },
