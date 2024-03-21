@@ -2,33 +2,21 @@
     "publisher": "PagePort",
     "author": "PagePort",
     "language": "en",
-    "url": "https:\/\/github.com\/ashcslmn\/test-exchange-page",
+    "url": "https:\/\/github.com\/",
     "packages": {
-        "1711022353": {
-            "globalID": "1711022353",
+        "1711024547": {
+            "globalID": "1711024547",
             "description": "",
             "version": "0.1",
-            "pages": [
-                {
-                    "name": "Foo.mediawiki",
-                    "namespace": "NS_MAIN",
-                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/test-exchange-page\/master\/Main%2FFoo.mediawiki.mediawiki"
-                },
-                {
-                    "name": "Main\/Foo.mediawiki",
-                    "namespace": "NS_MAIN",
-                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/test-exchange-page\/master\/Main%2FMain%7CFoo.mediawiki.mediawiki"
-                }
-            ],
             "requiredExtensions": [],
             "directoryStructure": {
                 "service": "Github",
-                "accountName": "ashcslmn",
-                "repositoryName": "test-exchange-page",
+                "accountName": "",
+                "repositoryName": "",
                 "namespaceSettings": [
                     {
-                        "namespace": "NS_MAIN",
-                        "fileNamePrefix": "MAIN\/",
+                        "namespace": "SMW_NS_SCHEMA",
+                        "fileNamePrefix": "SMW_SCHEMA\/",
                         "fileNameSuffix": ".mediawiki"
                     }
                 ]
