@@ -12,7 +12,15 @@
             "directoryStructure": {
                 "service": "GitHub",
                 "accountName": "ashcslmn",
-                "repositoryName": "test-page-exchange"
+                "repositoryName": "test-page-exchange",
+                "namespaceSettings": [
+                    {
+                        "namespace": "NS_MAIN",
+                        "namespaceName": "Main",
+                        "actualFileNamePrefix": "Main/",
+                        "actualFileNameSuffix": ""
+                    }
+                ]
             },
             "pages": [
                 {
