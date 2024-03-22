@@ -2,10 +2,10 @@
     "publisher": "PagePort",
     "author": "PagePort",
     "language": "en",
-    "url": "https:\/\/github.com\/ashcslmn\/page-exchange",
+    "url": "https:\/\/github.com\/ashcslmn\/test-page-exchange",
     "packages": {
-        "1711028335": {
-            "globalID": "1711028335",
+        "1711066490": {
+            "globalID": "1711066490",
             "description": "",
             "version": "0.1",
             "requiredExtensions": [],
